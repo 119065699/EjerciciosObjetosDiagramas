@@ -1,6 +1,6 @@
 package com.biblioteca.mantener;
 
-public class Libro {
+public class Libro extends General{
     private int edicion;
     private int añoPublicacion;
     private Autor autor;

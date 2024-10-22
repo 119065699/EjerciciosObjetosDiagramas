@@ -1,6 +1,6 @@
 package com.biblioteca.mantener;
 
-public class Autor {
+public class Autor extends General{
     private String observacion;
     private int librosPublicados;
     private Pais pais;

@@ -1,6 +1,6 @@
 package com.biblioteca.mantener;
 
-public class Prestatario {
+public class Prestatario extends General{
     private String telefono;
     private String direccion;
     private String ruc;

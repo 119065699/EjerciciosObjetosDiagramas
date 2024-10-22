@@ -1,5 +1,5 @@
 package com.biblioteca.mantener;
 
-public class Ciudad {
+public class Ciudad extends General{
 
 }
